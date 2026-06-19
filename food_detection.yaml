@@ -1,0 +1,11 @@
+path: 'C:/Users/VICTUS/OneDrive/Desktop/dataset/food_data/archive (1)/dataset/dataset'
+train: images/train
+val: images/valid
+
+nc: 20
+names: [
+  "Chicken Curry", "Plain Omelette", "Spinach Paneer", "Appam", "Avial", 
+  "Banana Chips", "Chapati Roti", "Chocolate Cake", "Fruit Salad", "Idli", 
+  "Kulfi", "Marble Cake", "Masala Dosa", "Masala Vada", "Mutton Biryani", 
+  "Pancake", "Sambar", "Uttapam", "Lemonade", "Rice Puttu"
+]
